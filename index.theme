@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.1
+Encoding=UTF-8
+Type=X-GNOME-Metatheme
+Name=thet-simplistic
+Comment=compactify.simplistic.
+
+[X-GNOME-Metatheme]
+GtkTheme=thet-simplistic
+MetacityTheme=Adwaita
+IconTheme=HighContrast-SVG
+CursorTheme=default
+CursorSize=10
