@@ -7,7 +7,7 @@ Comment=compactify.simplistic.
 
 [X-GNOME-Metatheme]
 GtkTheme=thet-simplistic
-MetacityTheme=Adwaita
-IconTheme=HighContrast-SVG
+MetacityTheme=thet-simplistic
+IconTheme=HighContrast
 CursorTheme=default
 CursorSize=10
